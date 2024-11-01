@@ -1,0 +1,350 @@
+#glt-flags {
+	margin-top: 0 !important;
+	padding-top: 0 !important;
+	margin-bottom: 0 !important;
+	padding-bottom: 0 !important;
+}
+
+.glt-align-left { 
+	margin-left: 0;
+	text-align: left;
+}
+
+.glt-align-center { 
+	margin: 0 auto;
+	text-align: center;
+}
+
+.glt-align-right { 
+	margin-right: 0;
+	text-align: right;
+}
+
+#glt-flags li {
+	display: inline-block !important;
+	width: 22px !important;
+	height: 16px !important;
+	background-repeat: no-repeat !important;
+	background-image: url(flags.png) !important;
+	margin: 1px 2px !important;
+	cursor: pointer;
+}
+
+#glt-flags li:first-child {
+	margin-left: 0 !important;
+}
+
+#glt-flags li:last-child {
+	margin-right: 0 !important;
+}
+
+.glt-flag-en {
+	background-position: 0 0 !important;
+}
+
+.glt-flag-fr {
+	background-position: -22px 0 !important;
+}
+
+.glt-flag-nl {
+	background-position: -44px 0 !important;
+}
+
+.glt-flag-el,
+.glt-flag-la {
+	background-position: -66px 0 !important;
+}
+
+.glt-flag-de {
+	background-position: -88px 0 !important;
+}
+
+.glt-flag-es {
+	background-position: -110px 0 !important;
+}
+
+.glt-flag-zh-cn {
+	background-position: -132px 0 !important;
+}
+
+.glt-flag-zh-tw {
+	background-position: -154px 0 !important;
+}
+
+.glt-flag-pl {
+	background-position: -176px 0 !important;
+}
+
+.glt-flag-pt {
+	background-position: -198px 0 !important;
+}
+
+.glt-flag-th {
+	background-position: 0 -16px !important;
+}
+
+.glt-flag-pa,
+.glt-flag-ur {
+	background-position: -22px -16px !important;
+}
+
+.glt-flag-ro {
+	background-position: -44px -16px !important;
+}
+
+.glt-flag-ru {
+	background-position: -66px -16px !important;
+}
+
+.glt-flag-no {
+	background-position: -88px -16px !important;
+}
+
+.glt-flag-da {
+	background-position: -110px -16px !important;
+}
+
+.glt-flag-fi {
+	background-position: -132px -16px !important;
+}
+
+.glt-flag-hi,
+.glt-flag-gu,
+.glt-flag-kn,
+.glt-flag-ml,
+.glt-flag-mr,
+.glt-flag-ta,
+.glt-flag-te {
+	background-position: -154px -16px !important;
+}
+
+.glt-flag-it {
+	background-position: -176px -16px !important;
+}
+
+.glt-flag-ja {
+	background-position: -198px -16px !important;
+}
+
+.glt-flag-af,
+.glt-flag-st,
+.glt-flag-zu,
+.glt-flag.glt-flag-custom-south-africa {
+	background-position: 0 -32px !important;
+}
+
+.glt-flag-sq {
+	background-position: -22px -32px !important;
+}
+
+.glt-flag-ar {
+	background-position: -44px -32px !important;
+}
+
+.glt-flag-hy {
+	background-position: -66px -32px !important;
+}
+
+.glt-flag-az {
+	background-position: -88px -32px !important;
+}
+
+.glt-flag-eu {
+	background-position: -110px -32px !important;
+}
+
+.glt-flag-be {
+	background-position: -132px -32px !important;
+}
+
+.glt-flag-bn {
+	background-position: -154px -32px !important;
+}
+
+.glt-flag-bs {
+	background-position: -176px -32px !important;
+}
+
+.glt-flag-bg {
+	background-position: -198px -32px !important;
+}
+
+.glt-flag-ca {
+	background-position: 0 -48px !important;
+}
+
+.glt-flag-ceb,
+.glt-flag-tl {
+	background-position: -22px -48px !important;
+}
+
+.glt-flag-ny {
+	background-position: -44px -48px !important;
+}
+
+.glt-flag-hr {
+	background-position: -66px -48px !important;
+}
+
+.glt-flag-cs {
+	background-position: -88px -48px !important;
+}
+
+.glt-flag-et {
+	background-position: -110px -48px !important;
+}
+
+.glt-flag-gl {
+	background-position: -132px -48px !important;
+}
+
+.glt-flag-ka {
+	background-position: -154px -48px !important;
+}
+
+.glt-flag-ht {
+	background-position: -176px -48px !important;
+}
+
+.glt-flag-ha,
+.glt-flag-ig {
+	background-position: -198px -48px !important;
+}
+
+.glt-flag-iw,
+.glt-flag-yi {
+	background-position: 0 -64px !important;
+}
+
+.glt-flag-hmn,
+.glt-flag-vi {
+	background-position: -22px -64px !important;
+}
+
+.glt-flag-hu {
+	background-position: -44px -64px !important;
+}
+
+.glt-flag-is {
+	background-position: -66px -64px !important;
+}
+
+.glt-flag-id,
+.glt-flag-jw,
+.glt-flag-su {
+	background-position: -88px -64px !important;
+}
+
+.glt-flag-ga {
+	background-position: -110px -64px !important;
+}
+
+.glt-flag-kk {
+	background-position: -132px -64px !important;
+}
+
+.glt-flag-km {
+	background-position: -154px -64px !important;
+}
+
+.glt-flag-ko {
+	background-position: -176px -64px !important;
+}
+
+.glt-flag-lo {
+	background-position: -198px -64px !important;
+}
+
+.glt-flag-lv {
+	background-position: 0 -80px !important;
+}
+
+.glt-flag-lt {
+	background-position: -22px -80px !important;
+}
+
+.glt-flag-mk {
+	background-position: -44px -80px !important;
+}
+
+.glt-flag-mg {
+	background-position: -66px -80px !important;
+}
+
+.glt-flag-ms {
+	background-position: -88px -80px !important;
+}
+
+.glt-flag-mt {
+	background-position: -110px -80px !important;
+}
+
+.glt-flag-mi {
+	background-position: -132px -80px !important;
+}
+
+.glt-flag-mn {
+	background-position: -154px -80px !important;
+}
+
+.glt-flag-my {
+	background-position: -176px -80px !important;
+}
+
+.glt-flag-ne {
+	background-position: -198px -80px !important;
+}
+
+.glt-flag-fa,
+.glt-flag-tg {
+	background-position: 0 -96px !important;
+}
+
+.glt-flag-sr {
+	background-position: -22px -96px !important;
+}
+
+.glt-flag-si {
+	background-position: -44px -96px !important;
+}
+
+.glt-flag-sk {
+	background-position: -66px -96px !important;
+}
+
+.glt-flag-sl {
+	background-position: -88px -96px !important;
+}
+
+.glt-flag-so,
+.glt-flag-sw {
+	background-position: -110px -96px !important;
+}
+
+.glt-flag-sv {
+	background-position: -132px -96px !important;
+}
+
+.glt-flag-tr {
+	background-position: -154px -96px !important;
+}
+
+.glt-flag-uk {
+	background-position: -176px -96px !important;
+}
+
+.glt-flag-uz {
+	background-position: -198px -96px !important;
+}
+
+.glt-flag-cy {
+	background-position: 0 -112px !important;
+}
+
+.glt-flag-yo {
+	background-position: -22px -112px !important;
+}
+
+.glt-flag-eo {
+	background-position: -44px -112px !important;
+}
